@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Systech</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_enviar_pedido">EnviarPedido</string>
+    <string name="title_activity_produtos">Produtos</string>
+    <string name="title_activity_lista_bebidas">Lista de Bebidas</string>
+</resources>
